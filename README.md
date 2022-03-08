@@ -1,4 +1,4 @@
-### Hola I'm Riya Kumari 👋
+## Hola I'm Riya Kumari 👋
 
 - 🔭 I’m currently working on Software development
 - 🌱 I’m currently learning Machine Learning.
