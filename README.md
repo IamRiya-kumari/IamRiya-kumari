@@ -62,7 +62,7 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 
 
 <a href="https://github.com/IamRiya-kumari/github-readme-stats">
-<img align="center" src="https://github-readme-stats.IamRiya-kumari.vercel.app/api/top-langs/?username=IamRiya-kumari&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazral.vercel.app/api/top-langs/?username=IamRiya-kumari&layout=compact&theme=blue-green" />
 </a>
 
 <br><br>
