@@ -51,8 +51,7 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 	    <li><b>Laptop: </b> HP CORE i3 7th Gen</li>
   	    <li><b>Browser: </b> Microsoft & Chrome</li>
 	    <li><b>Code Editor:</b> VSCode ❤, Eclipse, Anaconda</li>
-            <li><b>Cleverly using Eclipse terminal with node.js, python </li>
-		<li><b>Appetize.io for App Testing Purpose</li>
+            
 	</ul>	
 
 <div align="center">
