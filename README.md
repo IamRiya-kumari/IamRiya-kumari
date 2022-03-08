@@ -13,6 +13,12 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 - ⚡ Fun fact: I spend 12 hour listening to songs.
 
 
+<b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b>Windows 10</li>
+	    <li><b>Laptop: </b> HP CORE i3 7th Gen</li>
+  	    <li><b>Browser: </b> Microsoft & Chrome</li>
+	 
 [![Linkedin Badge](https://img.shields.io/badge/-riyakumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riya-kumari-08242b192/)](https://www.linkedin.com/in/riya-kumari-08242b192/) 
 [![Twitter Badge](https://img.shields.io/badge/-riyakumari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RiyaKum50818345)](https://twitter.com/RiyaKum50818345) 
 
@@ -55,6 +61,11 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 <br><br>
 
 
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajivranjanmars&layout=compact&theme=blue-green" />
+</a>
+
+<br><br>
 <a href="https://github.com/IamRiya-kumari">
  <img height="111em" src="https://github-readme-stats.vercel.app/api?username=IamRiya-kumari&show_icons=true&hide_border=true" />
 <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRiya-kumari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
@@ -72,12 +83,7 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 <br/>
 
 
-  <b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b>Windows 10</li>
-	    <li><b>Laptop: </b> HP CORE i3 7th Gen</li>
-  	    <li><b>Browser: </b> Microsoft & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Eclipse, Anaconda</li></ul>	
+  
 
 <div align="center">
 
