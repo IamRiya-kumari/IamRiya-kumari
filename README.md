@@ -1,4 +1,4 @@
-### Hola ,I Am Riya Kumari <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+### Hola ,I am Riya Kumari <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 I am a Computer Science undergraduate student, a tech enthusiast trying to serve the world
 
@@ -6,7 +6,7 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 
 - 🔭 I’m currently working on Software development
 - 🌱 I’m currently learning Machine Learning.
-- 🤔 I’m looking for help with JDBC.
+- 🤔 I’m looking for help with the current project.
 - 💬 Ask me about ML, web or any tech related stuff.
 - 📫 How to reach me: Twitter- [@RiyaKum50818345](https://twitter.com/RiyaKum50818345)
 - 😄 Pronouns: She/Her
@@ -60,15 +60,12 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 </a>
 <br><br>
 
-
-<a href="https://github.com/IamRiya-kumari/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazral.vercel.app/api/top-langs/?username=IamRiya-kumari&layout=compact&theme=blue-green" />
-</a>
-
 <br><br>
 <a href="https://github.com/IamRiya-kumari">
  <img height="111em" src="https://github-readme-stats.vercel.app/api?username=IamRiya-kumari&show_icons=true&hide_border=true" />
+	
 <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRiya-kumari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+	
 <img height="111em" src="https://github-readme-streak-stats.herokuapp.com/?user=IamRiya-kumari&&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 
