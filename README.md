@@ -50,9 +50,7 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
   	    <li><b>OS:</b>Windows 10</li>
 	    <li><b>Laptop: </b> HP CORE i3 7th Gen</li>
   	    <li><b>Browser: </b> Microsoft & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Eclipse, Anaconda</li>
-            
-	</ul>	
+	    <li><b>Code Editor:</b> VSCode ❤, Eclipse, Anaconda</li></ul>	
 
 <div align="center">
 
