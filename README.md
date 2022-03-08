@@ -1,6 +1,7 @@
-### Hola ,I am Riya Kumari <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<h1 align="center"> Hola ,I am Riya Kumari <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Computer Science Engineer</h3>
 
-I am a Computer Science undergraduate student, a tech enthusiast trying to serve the world
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IamRiya-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="IamRiya-kumari" /> </p>
 
 
 
