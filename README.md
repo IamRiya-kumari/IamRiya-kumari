@@ -19,12 +19,18 @@
   	    <li><b>OS:</b>Windows 10</li>
 	    <li><b>Laptop: </b> HP CORE i3 7th Gen</li>
   	    <li><b>Browser: </b> Microsoft & Chrome</li>
-	 
-[![Linkedin Badge](https://img.shields.io/badge/-riyakumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riya-kumari-08242b192/)](https://www.linkedin.com/in/riya-kumari-08242b192/) 
-[![Twitter Badge](https://img.shields.io/badge/-riyakumari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RiyaKum50818345)](https://twitter.com/RiyaKum50818345) 
-
-[![Instagram Badge](https://img.shields.io/badge/-@riyakumari.-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms)](https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms) 
-<!--
+	
+<h3 align="left">Connect with me:</h3>
+	
+<p align="left">
+<a href="https://www.linkedin.com/in/riya-kumari-08242b192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riyakumari" height="30" width="40" /> </a>	Linkedin
+	
+<a href="https://twitter.com/RiyaKum50818345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riyakumari" height="30" width="40" /></a> Twitter
+	
+<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riyakumari" height="30" width="40" /></a> Instagram
+	
+<a href="https://www.hackerrank.com/riyakumari_rk219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riyakumari" height="30" width="40" /></a> Hackerrank
+</p>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">-->
 
