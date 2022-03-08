@@ -12,8 +12,11 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend 12 hour listening to songs.
 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-riya-kumari-08242b192-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/riya-kumari-08242b192/](https://www.linkedin.com/in/riya-kumari-08242b192/)
 [![Twitter: RiyaKumari](https://img.shields.io/twitter/follow/RiyaKum50818345?style=social)](https://twitter.com/RiyaKum50818345)
-[![Linkedin: RiyaKumari](https://img.shields.io/badge/-riya-kumari-08242b192-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riya-kumari-08242b192/)](https://www.linkedin.com/in/riya-kumari-08242b192/)
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=ee92klszn36f&utm_content=7rj3vms) 
 [![GitHub RiyaKumari](https://img.shields.io/github/followers/IamRiya-kumari?label=follow&style=social)](https://github.com/IamRiya-kumari)
 
