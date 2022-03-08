@@ -8,13 +8,13 @@ I am a Computer Science undergraduate student, a tech enthusiast trying to serve
 - 🌱 I’m currently learning Machine Learning.
 - 🤔 I’m looking for help with JDBC.
 - 💬 Ask me about ML, web or any tech related stuff.
-- 📫 How to reach me: Twitter- [ @RiyaKum50818345](https://twitter.com/RiyaKum50818345)
+- 📫 How to reach me: Twitter- [@RiyaKum50818345](https://twitter.com/RiyaKum50818345)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend 12 hour listening to songs.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-riya-kumari-08242b192-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riya-kumari-08242b192/)](https://www.linkedin.com/in/riya-kumari-08242b192/) 
-[![Twitter Badge](https://img.shields.io/badge/-@rajivranjanmars-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RiyaKum50818345)](https://twitter.com/RiyaKum50818345) 
+[![Linkedin Badge](https://img.shields.io/badge/-riyakumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riya-kumari-08242b192/)](https://www.linkedin.com/in/riya-kumari-08242b192/) 
+[![Twitter Badge](https://img.shields.io/badge/-@riyakumari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RiyaKum50818345)](https://twitter.com/RiyaKum50818345) 
 
 [![Instagram Badge](https://img.shields.io/badge/-@its_me.riya_.-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms)](https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms) 
 <!--
