@@ -1,9 +1,11 @@
-<h1 align="center"> Hola ,I am Riya Kumari <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Computer Science Engineer</h3>
+## Hola, I'm [Riya Kumari](https://iamriya-kumari.github.io/Portfolio_riya/)👋
+
+I am a tech enthusiast 💻 who loves programming and also exploring about Artificial Intelligence and Machine Learning!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IamRiya-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="IamRiya-kumari" /> </p>
 
-
+</a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
+</a>
 
 - 🔭 I’m currently working on Software development
 - 🌱 I’m currently learning Machine Learning.
@@ -16,23 +18,24 @@
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>Windows 10</li>
+  	    <li><b>OS:</b>Windows 11</li>
 	    <li><b>Laptop: </b> HP CORE i3 7th Gen</li>
   	    <li><b>Browser: </b> Microsoft & Chrome</li>
+
 	
 <h3 align="left">Connect with me:</h3>
 	
 <p align="left">
-<a href="https://www.linkedin.com/in/riya-kumari-08242b192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riyakumari" height="30" width="40" /> </a>	Linkedin
+<a href="https://www.linkedin.com/in/riya-kumari-08242b192" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riyakumari" height="30" width="40" /> </a>
 	
-<a href="https://twitter.com/RiyaKum50818345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riyakumari" height="30" width="40" /></a> Twitter
+<a href="https://twitter.com/RiyaKum50818345" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riyakumari" height="30" width="40" /></a> 
 	
-<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riyakumari" height="30" width="40" /></a> Instagram
+<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riyakumari" height="30" width="40" /></a> 
 	
-<a href="https://www.hackerrank.com/riyakumari_rk219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riyakumari" height="30" width="40" /></a> Hackerrank
+<a href="https://www.hackerrank.com/riyakumari_rk219" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riyakumari" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">-->
+
 
 
 
@@ -55,26 +58,19 @@
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
 <br><br>
-<br><br>
-### 📈 Github Stats:
+
 <hr/>
 
+	
+	
 <a href="https://github.com/IamRiya-kumari">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamRiya-kumari&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a>
-<br><br>
+<img height="114em"src="https://github-readme-stats.vercel.app/api?username=IamRiya-kumari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<br><br>
-<a href="https://github.com/IamRiya-kumari">
- <img height="111em" src="https://github-readme-stats.vercel.app/api?username=IamRiya-kumari&show_icons=true&hide_border=true" />
-	
-<img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRiya-kumari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
-	
-<img height="111em" src="https://github-readme-streak-stats.herokuapp.com/?user=IamRiya-kumari&&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
+<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamRiya-kumari&layout=compact&langs_count=6&theme=algolia"/>
+<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=IamRiya-kumari&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
+
 
 
 <br>
@@ -92,5 +88,6 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 </div>
