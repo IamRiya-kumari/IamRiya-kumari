@@ -1,6 +1,6 @@
 ## Hola, I'm [Riya Kumari](https://iamriya-kumari.github.io/Portfolio_riya/)👋
 
-I am a tech enthusiast 💻 who loves programming and also exploring about Artificial Intelligence and Machine Learning!
+I am a tech enthusiast 💻 who loves programming and also exploring about Web Developer and Machine Learning!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IamRiya-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="IamRiya-kumari" /> </p>
 
