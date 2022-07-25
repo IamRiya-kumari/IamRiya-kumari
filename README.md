@@ -30,7 +30,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Web D
 	
 <a href="https://twitter.com/RiyaKum50818345" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riyakumari" height="30" width="40" /></a> 
 	
-<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riyakumari" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riyakumari" height="30" width="40" /></a>
 	
 <a href="https://www.hackerrank.com/riyakumari_rk219" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riyakumari" height="30" width="40" /></a>
 </p>
